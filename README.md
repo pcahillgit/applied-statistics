@@ -1,9 +1,9 @@
 # Applied Statistics
 
 ## About this Notebook
-This is my repository for the Applied Statistics module assessment. Each task outlined below demonstrates specific competencies in applied statistics.
+This is my repository for the Applied Statistics module assessment. The assessment is comprised of four problems which are approached in the problems.ipynb Jupyter Notebook.
 
-| Task | Title | What the Task Involves |
+| Problem | Title | What the Task Involves |
 | :--  | :---: |  :---:  |
 | 1 | Extending the Lady Tasting Tea | |
 | 2 | Normal Distribution | |
@@ -11,7 +11,7 @@ This is my repository for the Applied Statistics module assessment. Each task ou
 | 4 | ANOVA | |
 
 ## Get Started
-I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) for task 8 which outlines my methodology and reasoning for each task involved in the assessment. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
+I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) in this repository. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
 
 Much of the coding in this particular work was done via Visual Studio Code which runs in GitHub Codespaces (GitHubs cloud based development environment).
 
