@@ -7,7 +7,7 @@ This is my repository for the Applied Statistics module assessment. The assessme
 
 | Problem | Title | What the Task Involves |
 | :--  | :---: |  :---:  |
-| 1 | Extending the Lady Tasting Tea | |
+| 1 | Extending the Lady Tasting Tea | Expandng Fishers Lady Tasting experiment so that there are 12 cups: 8 tea-first and 4 milk-first |
 | 2 | Normal Distribution | |
 | 3 | t-Tests | |
 | 4 | ANOVA | |
