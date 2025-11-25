@@ -7,15 +7,15 @@ This is my repository for the Applied Statistics module assessment. The assessme
 
 | Problem | Title | What the Task Involves |
 | :--  | :---: |  :---:  |
-| 1 | Extending the Lady Tasting Tea | Expandng Fishers Lady Tasting experiment so that there are 12 cups: 8 tea-first and 4 milk-first |
-| 2 | Normal Distribution | |
+| 1 | Extending the Lady Tasting Tea | Expanding Fisher's Lady Tasting experiment so that there are 12 cups: 8 tea-first and 4 milk-first |
+| 2 | Normal Distribution | Generating many samples from a standard normal distribution to compare the behaviour of the sample standard deviation (ddof=1) with the population standard deviation (ddof=0). |
 | 3 | t-Tests | |
 | 4 | ANOVA | |
 
 ## Get Started
 I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) in this repository. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
 
-Much of the coding in this particular work was done via Visual Studio Code which runs in GitHub Codespaces (GitHubs cloud based development environment).
+Much of the coding in this particular work was done via Visual Studio Code, which runs in GitHub Codespaces (GitHub's cloud-based development environment).
 
 ## Contribute
 Click the badge below, generated from [openincolab.com](https://openincolab.com/) to open the problems.ipynb notebook in [Google Colab](http://colab.research.google.com/):
