@@ -1,6 +1,6 @@
 # Applied Statistics
 
-![Chardin, 'A Lady Taking Tea'](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chardin_-_A_Lady_Taking_Tea%2C_1735.jpg/960px-Chardin_-_A_Lady_Taking_Tea%2C_1735.jpg)
+![Normal Distribution](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/960px-Normal_Distribution_PDF.svg.png)
 
 ## About this Notebook
 This is my repository for the Applied Statistics module assessment. The assessment is comprised of four problems which are approached in the problems.ipynb Jupyter Notebook.
