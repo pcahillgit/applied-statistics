@@ -7,10 +7,10 @@ This is my repository for the Applied Statistics module assessment. The assessme
 
 | Problem | Title | What the Task Involves |
 | :--  | :---: |  :---:  |
-| 1 | Extending the Lady Tasting Tea | Expanding Fisher's Lady Tasting experiment so that there are 12 cups: 8 tea-first and 4 milk-first |
+| 1 | Extending the Lady Tasting Tea | Expanding Fisher's Lady Tasting experiment so that there are 12 cups: 8 tea-first and 4 milk-first. |
 | 2 | Normal Distribution | Generating many samples from a standard normal distribution to compare the behaviour of the sample standard deviation (ddof=1) with the population standard deviation (ddof=0). |
 | 3 | t-Tests | Simulating a Type II error by repeatedly generating two samples (one from N(0,1) and one from N(d,1)), running a t-test 1,000 times for each d=0,0.1,…,1.0, and recording how often the null is not rejected. Then plotting this proportion versus d to show how the Type II error rate decreases as the true mean difference increases. |
-| 4 | ANOVA | |
+| 4 | ANOVA |  This task involves generating three independent normal samples with different means, testing for differences using a one-way ANOVA, and then comparing the results to multiple two-pair t-tests in order to evaluate how the conclusions differ. |
 
 ## Get Started
 I used [Anaconda](https://www.anaconda.com/download) in [Visual Studio Code](https://code.visualstudio.com/download) to create and write the [Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/) in this repository. I recommend you download and use the same to view the work. Visual Studio Code is a tool which allows the user to view and edit code.
